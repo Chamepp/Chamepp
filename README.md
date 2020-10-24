@@ -8,8 +8,16 @@ You Can **Contact** Me by My **Gmail** Account Below :facepunch: <br>
 
 **Gmail: ashkanebtekari@gmail.com**
 
+<br>
 
 > “Experience is the name everyone gives to their mistakes.”
 > -  Oscar Wilde
 
-[![Ashkan's github stats](https://github-readme-stats.vercel.app/api?username=Ashkan&theme=blue-green)](https://github.com/Chamepp/Chamepp)
+<br>
+
+
+![Ashkan's github stats](https://github-readme-stats.vercel.app/api?username=Chamepp&show_icons=true&theme=default)
+
+<br>
+<br>
+<br>
