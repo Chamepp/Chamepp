@@ -10,14 +10,9 @@ You Can **Contact** Me by My **Gmail** Account Below :facepunch: <br>
 
 <br>
 
-> “Experience is the name everyone gives to their mistakes.”
-> -  Oscar Wilde
-
-<br>
-
-
 ![Ashkan's github stats](https://github-readme-stats.vercel.app/api?username=Chamepp&show_icons=true&theme=default)
 
 <br>
-<br>
-<br>
+
+> “Experience is the name everyone gives to their mistakes.”
+> -  Oscar Wilde
