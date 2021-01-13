@@ -10,7 +10,8 @@ You Can **Contact** Me by My **Gmail** Account Below :facepunch: <br>
 
 <br>
 
-![Ashkan's github stats](https://github-readme-stats.vercel.app/api?username=Chamepp&show_icons=true&theme=default)
+![Ashkan's github stats](https://github-readme-stats.vercel.app/api?username=Chamepp&show_icons=true&theme=default) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chamepp&layout=compact)](https://github.com/Chamepp/Chamepp)
 
 <br>
 
