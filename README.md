@@ -15,7 +15,7 @@ You Can **Contact** Me by My **Gmail** Account Below :facepunch: <br>
 
 <br>
 
-> “Experience is the name everyone gives to their mistakes.”
-> -  Oscar Wilde
+> “Fix the cause, not the symptom.”
+> -  Steve Maguire
 
 <br>
