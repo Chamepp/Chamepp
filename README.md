@@ -2,7 +2,7 @@
 
 Im *Ashkan* ! :smiley: <br>
 Im a **Ruby On Rails** Developer. ... :wink: <br>
-Im *Really Intrested* in **Dart** and **Ruby**. :heart: <br>
+Im *Really Intrested* in **React** and **Rails**. :heart: <br>
 Feel Free For Asking Questions :kissing_heart: <br>
 You Can **Contact** Me by My **Gmail** Account Below :facepunch: <br>
 
@@ -10,7 +10,7 @@ You Can **Contact** Me by My **Gmail** Account Below :facepunch: <br>
 
 <br>
 
-![Ashkan's github stats](https://github-readme-stats.vercel.app/api?username=Chamepp&show_icons=true&theme=default) <br>
+![Ashkan's github stats](https://github-readme-stats.vercel.app/api?username=Chamepp&show_icons=true&theme=green) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chamepp&layout=compact)](https://github.com/Chamepp/Chamepp)
 
 <br>
