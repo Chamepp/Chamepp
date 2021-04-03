@@ -7,9 +7,13 @@ Feel Free For Asking Questiouns :kissing_heart: <br>
 You Can **Contact** Me by My **Gmail** Account Below :facepunch: <br>
 
 **Gmail: ashkanebtekari@gmail.com**
-<div style="display: flex; background-color: red;">
+
+<div style="display: flex;">
   <img alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>
   <img alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img alt="Rails" src="https://img.shields.io/badge/rails%20-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
@@ -28,10 +32,4 @@ You Can **Contact** Me by My **Gmail** Account Below :facepunch: <br>
 > “Fix the Cause, Not the Symptom.”
 > -  Steve Maguire
 
-<div style="height: 200px; background-color: red;>
-  <h1>
-    “Fix the Cause, Not the Symptom.”
-    Steve Maguire
-  </h1>
-</div>
 <br>
