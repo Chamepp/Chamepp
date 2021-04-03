@@ -28,4 +28,10 @@ You Can **Contact** Me by My **Gmail** Account Below :facepunch: <br>
 > “Fix the Cause, Not the Symptom.”
 > -  Steve Maguire
 
+<div style="height: 200px; background-color: red;>
+  <h1>
+    “Fix the Cause, Not the Symptom.”
+    Steve Maguire
+  </h1>
+</div>
 <br>
