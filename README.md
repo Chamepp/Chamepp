@@ -3,7 +3,7 @@
 Im *Ashkan* ! :smiley: <br>
 Im a **Ruby On Rails** Developer. ... :wink: <br>
 Im *Really Intrested* in **Software Development** and **Ethical Hacking**. :heart: <br>
-Feel Free For Asking Questiouns :kissing_heart: <br>
+Feel Free For Asking Questions :kissing_heart: <br>
 You Can **Contact** Me by My **Gmail** Account Below :facepunch: <br>
 
 **Gmail: ashkanebtekari@gmail.com**
