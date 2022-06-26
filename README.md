@@ -28,7 +28,6 @@ You Can **Contact** Me by My **Gmail** Account Below :facepunch: <br>
 
 <br>
 
-> “Fix the Cause, Not the Symptom.”
-> -  Steve Maguire
+> “Discipline equals freedom.”
 
 <br>
