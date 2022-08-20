@@ -29,6 +29,6 @@ You Can **Contact** Me by My **Gmail** Account Below :facepunch: <br>
 <br>
 
 > “Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.”
-> - Antoine de Saint-Exupery
+> Antoine de Saint-Exupery
 
 <br>
