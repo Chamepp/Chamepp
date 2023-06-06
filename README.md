@@ -1,5 +1,5 @@
 <div align="center" style="display: flex;">
-  <img width=300 height=300 alt="Website" src="https://github.com/Chamepp/Chamepp/blob/main/Symbol.png"/> <br />
+  <img width=300 height=180 alt="Website" src="https://github.com/Chamepp/Chamepp/blob/main/Symbol.png"/> <br />
   <h3 style="font-size: 30 px;">Ashkan Ebtekari</h3>
   A <b>passionate software developer</b> who thrives on <b><i>open source collaboration</i></b> and <b><i>daily learning</i></b>. <br />
   With a deep love for coding, I constantly seek new projects and challenges. <br />
