@@ -1,13 +1,13 @@
-### About Me
-
-<div align="center">
-  A passionate software developer who thrives on open source collaboration and daily learning. <br />
+<div align="center" style="display: flex;">
+  <img width=300 height=300 alt="Website" src="https://github.com/Chamepp/Chamepp/blob/main/Symbol.png"/> <br />
+  <h3 style="font-size: 30 px;">Ashkan Ebtekari</h3>
+  A <b>passionate software developer</b> who thrives on <b><i>open source collaboration</i></b> and <b><i>daily learning</i></b>. <br />
   With a deep love for coding, I constantly seek new projects and challenges. <br />
-
-  Actively contributing to open-source initiatives, I believe in giving back to the developer community by fixing bugs, adding features, and enhancing documentation.
-
-  My insatiable curiosity fuels a daily routine of reading, coding, and problem solving, ensuring I stay up-to-date with the latest technologies and industry best practices.
+  Actively <b>contributing to open-source initiatives</b>, I believe in <br />
+  giving back to the developer community.
 </div>
+
+<br />
 
 <div align="center" style="display: flex;">
   <img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>
