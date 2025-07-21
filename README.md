@@ -78,5 +78,20 @@ Over the years, I’ve grown through roles that reflect that spirit:
 - **iOS + Full Stack Engineer** — building real products under real constraints.
 - **Startup Native** — I thrive in chaos. I love to strategize and lead. Turning ambiguity into momentum is where I live.
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/ashkan-ebtekari" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/ebtekari_ashkan" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://instagram.com/ashkan.ebtekari" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.freecodecamp.org/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/FreeCodeCamp-006400?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="FreeCodeCamp" />
+  </a>
+</p>
+
 > **“Even if the skies were shorter than my knees, I would not kneel.”**  
 > — *Cyrus the Great*
