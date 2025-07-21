@@ -1,8 +1,3 @@
-> **“Even if the skies were shorter than my knees, I would not kneel.”**  
-> — *Cyrus the Great*
-
----
-
 In 2018, I was a quiet 15-year-old with a secondhand laptop and no roadmap.
 
 I didn’t start with ambition — I started with questions.  
@@ -94,3 +89,6 @@ Over the years, I’ve grown through roles that reflect that spirit:
 - **FreeCodeCamp Author** — writing technical content that teaches, not just informs.
 - **iOS + Full Stack Engineer** — building real products under real constraints.
 - **Startup Native** — I thrive in chaos. Turning ambiguity into momentum is where I live.
+
+> **“Even if the skies were shorter than my knees, I would not kneel.”**  
+> — *Cyrus the Great*
