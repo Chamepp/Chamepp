@@ -29,7 +29,7 @@ Since then, I’ve followed one rule: **Build things that matter. Build things t
 
 ---
 
-## Work That Matters
+## What I'm focused on. Shaping the Stack, Shaping the Future
 
 Today, I contribute to Apple’s open-source ecosystem:
 
@@ -58,7 +58,7 @@ And the future belongs to those who master both.
 
 ---
 
-## How I Work
+## From Idea to Impact
 
 I love building products from scratch. Turning raw ideas into working, valuable software.  
 From architecture to UX, launch to iteration, I enjoy the full journey.
