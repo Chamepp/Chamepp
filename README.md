@@ -48,7 +48,7 @@ To be part of this movement, I’m building AI-powered solutions that push the b
 
 **[SearchMind](https://github.com/Mindsblend/SearchMind)** — an intelligent AI-driven search engine that supports fuzzy, exact, pattern-based, and semantic search across codebases and content, designed for speed and extensibility.
 
-**[SwiftestGen](https://github.com/Chamepp/SwiftTestGen)** — an AI-powered test generation and documentation tool that understands your Swift codebase and automatically creates meaningful tests and docs, accelerating quality and clarity.
+**[SwiftTestGen](https://github.com/Chamepp/SwiftTestGen)** — an AI-powered test generation that understands your Swift codebase and automatically creates meaningful tests.
 
 I want to help companies and businesses gain a leg up in the software market. By building the *right* software that expands reach, increases sales, and unlocks sustainable growth.
 
@@ -67,7 +67,8 @@ I specialize in **web and mobile development**, and complement that with **techn
 
 I also love **strategy and leadership**. Seeing the long game, designing systems that scale, and helping people move in sync toward a meaningful goal and helping them reaching their full potential.
 
-“Legacy is not leaving something for people. It’s leaving something in people.” – Peter Strople
+> **“Legacy is not leaving something for people. It’s leaving something in people.”**  
+> — *Peter Strople*
 
 Over the years, I’ve grown through roles that reflect that spirit:
 
