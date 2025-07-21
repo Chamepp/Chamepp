@@ -38,7 +38,7 @@ Today, I contribute to Apple’s open-source ecosystem:
 
 My current focus: Integrating AI into Swift’s documentation tooling, using embeddings and large language models to **make docs smarter, searchable, and self-generating**.
 
-> “The best software engineers are not those who build the most, but those who remove the most friction.” – Unknown
+The best software engineers are not those who build the most, but those who remove the most friction.
 
 But my true focus goes beyond tools and code.
 
