@@ -46,9 +46,9 @@ The software development life cycle is changing forever. AI is reshaping how we 
 
 To be part of this movement, I’m building AI-powered solutions that push the boundaries of development:
 
-**SearchMind** — an intelligent AI-driven search engine that supports fuzzy, exact, pattern-based, and semantic search across codebases and content, designed for speed and extensibility.
+**[SearchMind](https://github.com/Mindsblend/SearchMind)** — an intelligent AI-driven search engine that supports fuzzy, exact, pattern-based, and semantic search across codebases and content, designed for speed and extensibility.
 
-**SwiftestGen** — an AI-powered test generation and documentation tool that understands your Swift codebase and automatically creates meaningful tests and docs, accelerating quality and clarity.
+**[SwiftestGen](https://github.com/Chamepp/SwiftTestGen)** — an AI-powered test generation and documentation tool that understands your Swift codebase and automatically creates meaningful tests and docs, accelerating quality and clarity.
 
 I want to help companies and businesses gain a leg up in the software market. By building the *right* software that expands reach, increases sales, and unlocks sustainable growth.
 
